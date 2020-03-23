@@ -1,8 +1,9 @@
 # Android-Studio-Animations
 various android studio animations like fade,translation,rotation,scaling methods are described in the following repository \
 copy activity_main.xml and MainActivity.java files and paste it in your project to get hands on experience \
+while copy paste don't forget change package name
 try all those transformations by changing Onclick in xml files \
-this repositories contains solutions for many animation problems \\
+this repositories contains solutions for many animation problems \
 
 # Fade in and Fade out 
 ## i)alpha
